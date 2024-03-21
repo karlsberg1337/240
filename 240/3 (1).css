@@ -1,0 +1,17 @@
+#menu
+{
+  display: flex;
+  background-color: #b637c7;
+}
+
+#menu a
+{
+  padding: 15px 40px;
+  font: 16px Arial;
+  text-decoration: none;
+  color: rgb(240, 240, 240);
+}
+#menu a:hover, #menu a.active
+{
+  background-color: #5c2691;
+}
